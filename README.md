@@ -1,4 +1,4 @@
-# Idris2-instructions
+# Idris2 installation instructions
 Instructions to install Idris2 in a Linux machine.
 
 1. Download idris from https://www.idris-lang.org/pages/download.html.
